@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Dar</h1>
-<h3 align="center">A passionate Frontend Developer | AI & ML Enthusiast</h3>
+<h3 align="center">A passionate Full Stack Developer | AI & ML Enthusiast</h3>
 
 - 🌱 I’m currently learning **Django , Mysql and ML Algorithms**
 
