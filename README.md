@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Dar</h1>
 <h3 align="center">A passionate Full Stack Developer | AI & ML Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://mujtaba-dar.netlify.app/](https://mujtaba-dar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mujtabadar.vercel.app/](https://mujtabadar.vercel.app/)
 
 - 💬 Ask me about **Javascript , typescript ,Angular, React and Vue**
 
