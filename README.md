@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Dar</h1>
 <h3 align="center">A passionate Full Stack Developer | AI & ML Enthusiast</h3>
 
-- 🌱 I’m currently learning **Django , Mysql and ML Algorithms**
-
 - 👨‍💻 All of my projects are available at [https://mujtaba-dar.netlify.app/](https://mujtaba-dar.netlify.app/)
 
-- 💬 Ask me about **Angular and Javascript**
+- 💬 Ask me about **Javascript , typescript ,Angular, React and Vue**
 
 - 📫 How to reach me **mujtabadar98@gmail.com**
 
